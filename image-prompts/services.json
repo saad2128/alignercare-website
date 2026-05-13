@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "clear-aligners",
+    "title": "Clear Aligner Tray Visualization",
+    "basePrompt": "Ultra-realistic premium dental product photo of clear aligner trays with anatomically correct smooth U-shaped curved dental arch form, realistic maxillary and mandibular curvature, symmetric tooth alignment arc, clean gumline-following trim, clinically accurate transparent polymer material, subtle condensation detail, realistic optical reflections, orthodontic clinic context, professional commercial healthcare campaign style",
+    "angleVariations": {
+      "front": "Single aligner tray centered on a sterile dental countertop with soft morning clinic light and subtle depth background.",
+      "three-quarter": "Aligner tray placed beside dental scanner wand and case card on a treatment desk, three-quarter perspective.",
+      "side": "Side profile of stacked upper and lower aligners near a blurred dental chair environment, emphasizing arch curve silhouette.",
+      "closeup": "Macro detail on aligner edge trim and tooth contours with realistic micro-reflections and material transparency.",
+      "workflow": "Orthodontist hand placing aligner on physical model at workstation with monitor in background, wider operational context."
+    }
+  },
+  {
+    "slug": "crowns-bridges",
+    "title": "Crowns and Bridges Precision Visual",
+    "basePrompt": "Hyper-realistic dental lab macro photography of ceramic crowns and bridges on a neutral sterile clinical setup, anatomically accurate tooth morphology, natural enamel and ceramic translucency, realistic specular highlights, premium restorative dentistry brand campaign look",
+    "angleVariations": {
+      "front": "A full set of ceramic units arranged in a linear tray under neutral white lab lights with clean symmetry.",
+      "three-quarter": "Three-quarter perspective of multi-unit bridge on a stone model with shallow depth and warm side lighting.",
+      "side": "Side profile showing crown thickness and margin details on articulated model against softly blurred lab instruments.",
+      "closeup": "Extreme macro showing ceramic translucency, occlusal grooves, and realistic glaze texture.",
+      "workflow": "Lab technician checking crown fit under magnification lamp with digital caliper and tools in frame."
+    }
+  },
+  {
+    "slug": "digital-smile-design",
+    "title": "Digital Smile Planning Screen",
+    "basePrompt": "Authentic orthodontic planning workstation in a real office setting: two laptops on a wooden desk showing dental arch and tooth setup screens, sticky notes on wall, natural room lighting, true-to-life perspective and textures, candid professional environment, clinically accurate dental planning visuals",
+    "angleVariations": {
+      "front": "Direct front-facing workstation shot with both laptop screens visible and planning UI clearly readable as dental context.",
+      "three-quarter": "Three-quarter view with clinician hand using stylus on one laptop while second screen displays arch simulation.",
+      "side": "Side angle showing monitor depth and desk setup with dental model and notes, realistic office environment.",
+      "closeup": "Close-up of one display area with tooth movement staging timeline and realistic UI elements, no gibberish text.",
+      "workflow": "Wide scene including workstation, sticky notes, and accessories to communicate active digital case planning workflow."
+    }
+  },
+  {
+    "slug": "dental-lab-services",
+    "title": "Dental Lab Workflow Scene",
+    "basePrompt": "Photorealistic modern digital dental laboratory scene with clean minimal composition, one primary subject equipment per frame, sterile organized workspace, natural clinical lighting, authentic technical realism, premium medical brand visual style",
+    "angleVariations": {
+      "front": "Focused front shot of a single CAD/CAM milling machine as hero subject, clean bench, minimal background clutter, no crowd of people.",
+      "three-quarter": "Three-quarter view focused on one desktop dental scanner with a single model being scanned, simple surrounding setup.",
+      "side": "Side angle focused on one 3D dental printer and printed model tray, sparse environment and clear negative space.",
+      "closeup": "Close-up focused on one precision finishing micromotor handpiece and dental model contact point, macro technical detail.",
+      "workflow": "Focused workstation scene with one monitor showing CAD design and one technician only, uncluttered bench and minimal equipment."
+    }
+  }
+]

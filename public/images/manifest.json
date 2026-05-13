@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "dental-lab-services",
+    "title": "Dental Lab Workflow Scene",
+    "angle": "front",
+    "prompt": "Service visual: Dental Lab Workflow Scene. Photorealistic modern digital dental laboratory scene with clean minimal composition, one primary subject equipment per frame, sterile organized workspace, natural clinical lighting, authentic technical realism, premium medical brand visual style Camera perspective: front angle, centered composition. Scene variation: Focused front shot of a single CAD/CAM milling machine as hero subject, clean bench, minimal background clutter, no crowd of people.. Photorealistic real-world healthcare photography with natural indoor lighting. Documentary-style office and clinic realism, authentic imperfect framing, not a 3D render. Create a distinct composition from other angles in this same service set. Shot on full-frame DSLR look, realistic skin tones, natural shadows, high dynamic range. Clinically accurate dental anatomy and instruments, no cartoon styling. No text, no watermark, no logo, no labels, no distortion, no extra fingers. Premium clean medical environment, trust-focused brand aesthetic.",
+    "provider": "pollinations.ai",
+    "model": "flux",
+    "seed": 1778671930892,
+    "width": 3072,
+    "height": 2048,
+    "output": "public/images/services/dental-lab-services/dental-lab-services-front.jpeg",
+    "status": "generated"
+  },
+  {
+    "slug": "dental-lab-services",
+    "title": "Dental Lab Workflow Scene",
+    "angle": "three-quarter",
+    "prompt": "Service visual: Dental Lab Workflow Scene. Photorealistic modern digital dental laboratory scene with clean minimal composition, one primary subject equipment per frame, sterile organized workspace, natural clinical lighting, authentic technical realism, premium medical brand visual style Camera perspective: 45-degree three-quarter angle view. Scene variation: Three-quarter view focused on one desktop dental scanner with a single model being scanned, simple surrounding setup.. Photorealistic real-world healthcare photography with natural indoor lighting. Documentary-style office and clinic realism, authentic imperfect framing, not a 3D render. Create a distinct composition from other angles in this same service set. Shot on full-frame DSLR look, realistic skin tones, natural shadows, high dynamic range. Clinically accurate dental anatomy and instruments, no cartoon styling. No text, no watermark, no logo, no labels, no distortion, no extra fingers. Premium clean medical environment, trust-focused brand aesthetic.",
+    "provider": "pollinations.ai",
+    "model": "flux",
+    "seed": 1778671931271,
+    "width": 3072,
+    "height": 2048,
+    "output": "public/images/services/dental-lab-services/dental-lab-services-three-quarter.jpeg",
+    "status": "generated"
+  },
+  {
+    "slug": "dental-lab-services",
+    "title": "Dental Lab Workflow Scene",
+    "angle": "side",
+    "prompt": "Service visual: Dental Lab Workflow Scene. Photorealistic modern digital dental laboratory scene with clean minimal composition, one primary subject equipment per frame, sterile organized workspace, natural clinical lighting, authentic technical realism, premium medical brand visual style Camera perspective: side profile angle view. Scene variation: Side angle focused on one 3D dental printer and printed model tray, sparse environment and clear negative space.. Photorealistic real-world healthcare photography with natural indoor lighting. Documentary-style office and clinic realism, authentic imperfect framing, not a 3D render. Create a distinct composition from other angles in this same service set. Shot on full-frame DSLR look, realistic skin tones, natural shadows, high dynamic range. Clinically accurate dental anatomy and instruments, no cartoon styling. No text, no watermark, no logo, no labels, no distortion, no extra fingers. Premium clean medical environment, trust-focused brand aesthetic.",
+    "provider": "pollinations.ai",
+    "model": "flux",
+    "seed": 1778671931650,
+    "width": 3072,
+    "height": 2048,
+    "output": "public/images/services/dental-lab-services/dental-lab-services-side.jpeg",
+    "status": "generated"
+  },
+  {
+    "slug": "dental-lab-services",
+    "title": "Dental Lab Workflow Scene",
+    "angle": "closeup",
+    "prompt": "Service visual: Dental Lab Workflow Scene. Photorealistic modern digital dental laboratory scene with clean minimal composition, one primary subject equipment per frame, sterile organized workspace, natural clinical lighting, authentic technical realism, premium medical brand visual style Camera perspective: macro close-up angle with shallow depth of field. Scene variation: Close-up focused on one precision finishing micromotor handpiece and dental model contact point, macro technical detail.. Photorealistic real-world healthcare photography with natural indoor lighting. Documentary-style office and clinic realism, authentic imperfect framing, not a 3D render. Create a distinct composition from other angles in this same service set. Shot on full-frame DSLR look, realistic skin tones, natural shadows, high dynamic range. Clinically accurate dental anatomy and instruments, no cartoon styling. No text, no watermark, no logo, no labels, no distortion, no extra fingers. Premium clean medical environment, trust-focused brand aesthetic.",
+    "provider": "pollinations.ai",
+    "model": "flux",
+    "seed": 1778671932029,
+    "width": 3072,
+    "height": 2048,
+    "output": "public/images/services/dental-lab-services/dental-lab-services-closeup.jpeg",
+    "status": "generated"
+  },
+  {
+    "slug": "dental-lab-services",
+    "title": "Dental Lab Workflow Scene",
+    "angle": "workflow",
+    "prompt": "Service visual: Dental Lab Workflow Scene. Photorealistic modern digital dental laboratory scene with clean minimal composition, one primary subject equipment per frame, sterile organized workspace, natural clinical lighting, authentic technical realism, premium medical brand visual style Camera perspective: wider workflow angle showing surrounding professional context. Scene variation: Focused workstation scene with one monitor showing CAD design and one technician only, uncluttered bench and minimal equipment.. Photorealistic real-world healthcare photography with natural indoor lighting. Documentary-style office and clinic realism, authentic imperfect framing, not a 3D render. Create a distinct composition from other angles in this same service set. Shot on full-frame DSLR look, realistic skin tones, natural shadows, high dynamic range. Clinically accurate dental anatomy and instruments, no cartoon styling. No text, no watermark, no logo, no labels, no distortion, no extra fingers. Premium clean medical environment, trust-focused brand aesthetic.",
+    "provider": "pollinations.ai",
+    "model": "flux",
+    "seed": 1778671932408,
+    "width": 3072,
+    "height": 2048,
+    "output": "public/images/services/dental-lab-services/dental-lab-services-workflow.jpeg",
+    "status": "generated"
+  }
+]
