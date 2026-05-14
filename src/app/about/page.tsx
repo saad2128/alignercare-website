@@ -7,7 +7,7 @@ import { brand } from "@/content/site-content";
 export const metadata: Metadata = {
   title: "About",
   description:
-    "Learn about Align Care Dental Lab, our 25+ years of expertise, and our digital-first approach to dental precision.",
+    "Learn about Kamfe Smile Care Lab, our 25+ years of expertise, and our digital-first approach to dental precision.",
 };
 
 export default function AboutPage() {

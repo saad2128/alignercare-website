@@ -47,7 +47,7 @@ export default function Home() {
       <section className="py-16">
         <Container>
           <SectionTitle
-            eyebrow="Why Align Care"
+            eyebrow="Why Kamfe Smile Care Lab"
             title="Precision, Experience, and Digital Reliability"
             description="We deliver treatment-ready dental and aligner solutions with consistent quality controls and modern workflows."
           />

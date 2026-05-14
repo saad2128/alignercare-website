@@ -1,0 +1,8 @@
+<svg width="410" height="82" viewBox="0 0 410 82" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="9" width="62" height="62" rx="14" fill="#0F172A"/>
+  <path d="M19 37C23 29 29 25 35 25C41 25 47 29 51 37" stroke="#22D3EE" stroke-width="3" stroke-linecap="round"/>
+  <path d="M18 37V42C18 48 23 53 29 53H41C47 53 52 48 52 42V37" stroke="#E2E8F0" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M29 37V53M35 37V53M41 37V53" stroke="#E2E8F0" stroke-width="1.8"/>
+  <text x="78" y="38" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="700" fill="#0F172A">Kamfe Smile</text>
+  <text x="78" y="59" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="600" fill="#475569">Care Lab</text>
+</svg>

@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
@@ -13,8 +14,14 @@ export function SiteHeader() {
   return (
     <header className="sticky top-0 z-50 border-b border-slate-200 bg-white/95 backdrop-blur">
       <Container className="flex h-16 items-center justify-between">
-        <Link href="/" className="text-lg font-semibold text-slate-900" onClick={() => setIsOpen(false)}>
-          Align Care
+        <Link href="/" className="flex items-center gap-2" onClick={() => setIsOpen(false)}>
+          <Image
+            src="/images/branding/kamfe-smile-care-lab-logo.svg"
+            alt="Kamfe Smile Care Lab logo"
+            width={180}
+            height={36}
+            priority
+          />
         </Link>
 
         <nav aria-label="Main navigation" className="hidden gap-1 md:flex">

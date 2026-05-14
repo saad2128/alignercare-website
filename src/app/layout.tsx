@@ -16,18 +16,23 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Align Care Dental Lab",
-    template: "%s | Align Care Dental Lab",
+    default: "Kamfe Smile Care Lab",
+    template: "%s | Kamfe Smile Care Lab",
   },
   description:
-    "Align Care Dental Lab provides digital clear aligner workflows, restorative precision, and modern dental lab services.",
-  metadataBase: new URL("https://www.aligncarelab.com"),
+    "Kamfe Smile Care Lab provides digital clear aligner workflows, restorative precision, and modern dental lab services.",
+  metadataBase: new URL("https://www.kamfesmilecarelab.com"),
   openGraph: {
-    title: "Align Care Dental Lab",
+    title: "Kamfe Smile Care Lab",
     description:
       "Modern clear aligner and digital dental lab solutions built on precision, quality, and clinical collaboration.",
-    siteName: "Align Care Dental Lab",
+    siteName: "Kamfe Smile Care Lab",
     type: "website",
+  },
+  icons: {
+    icon: "/images/branding/kamfe-smile-care-lab-mark.svg",
+    shortcut: "/images/branding/kamfe-smile-care-lab-mark.svg",
+    apple: "/images/branding/kamfe-smile-care-lab-mark.svg",
   },
 };
 

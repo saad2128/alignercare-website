@@ -4,11 +4,11 @@ const IMAGE_VERSION = "v6";
 const versionedImage = (imagePath: string) => `${imagePath}?${IMAGE_VERSION}`;
 
 export const brand = {
-  name: "Align Care Dental Lab",
+  name: "Kamfe Smile Care Lab",
   tagline: "Where experience meets technology for perfect smiles.",
   heroTitle: "Advanced Clear Aligner and Digital Dental Solutions",
   heroDescription:
-    "Align Care Dental Lab combines 25+ years of clinical-lab experience with modern digital workflows to deliver precise, comfortable, and reliable treatment outcomes.",
+    "Kamfe Smile Care Lab combines 25+ years of clinical-lab experience with modern digital workflows to deliver precise, comfortable, and reliable treatment outcomes.",
   heroImage: versionedImage("/images/services/clear-aligners/clear-aligners-workflow.jpeg"),
 };
 

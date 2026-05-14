@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { Container } from "@/components/container";
 import { contactInfo, navItems } from "@/content/site-content";
@@ -7,7 +8,12 @@ export function SiteFooter() {
     <footer className="mt-16 border-t border-slate-200 bg-slate-50 py-10">
       <Container className="grid gap-8 md:grid-cols-3">
         <div>
-          <p className="text-base font-semibold text-slate-900">Align Care Dental Lab</p>
+          <Image
+            src="/images/branding/kamfe-smile-care-lab-logo.svg"
+            alt="Kamfe Smile Care Lab logo"
+            width={190}
+            height={38}
+          />
           <p className="mt-2 text-sm text-slate-600">
             Trusted digital dental workflows for aligners, restorative accuracy, and quality-focused outcomes.
           </p>

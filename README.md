@@ -1,4 +1,4 @@
-# Align Care Website
+# Kamfe Smile Care Lab Website
 
 Production-ready Next.js marketing website for aligner and dental lab services.
 

@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const baseUrl = "https://www.aligncarelab.com";
+const baseUrl = "https://www.kamfesmilecarelab.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const routes = ["", "/services", "/aligners", "/about", "/contact", "/privacy-policy"];

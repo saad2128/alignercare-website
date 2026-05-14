@@ -7,7 +7,7 @@ import { services } from "@/content/site-content";
 export const metadata: Metadata = {
   title: "Services",
   description:
-    "Explore clear aligners, crowns and bridges, digital smile design, and comprehensive dental lab services by Align Care Dental Lab.",
+    "Explore clear aligners, crowns and bridges, digital smile design, and comprehensive dental lab services by Kamfe Smile Care Lab.",
 };
 
 export default function ServicesPage() {

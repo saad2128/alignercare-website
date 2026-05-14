@@ -5,7 +5,7 @@ import { contactInfo } from "@/content/site-content";
 
 export const metadata: Metadata = {
   title: "Contact",
-  description: "Get in touch with Align Care Dental Lab via phone or visit us at our Lahore location.",
+  description: "Get in touch with Kamfe Smile Care Lab via phone or visit us at our Lahore location.",
 };
 
 export default function ContactPage() {
@@ -14,7 +14,7 @@ export default function ContactPage() {
       <Container>
         <SectionTitle
           eyebrow="Contact"
-          title="Reach Align Care Dental Lab"
+          title="Reach Kamfe Smile Care Lab"
           description="For case discussions and service inquiries, connect with us through the contact details below."
         />
 

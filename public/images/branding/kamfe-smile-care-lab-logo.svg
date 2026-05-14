@@ -1,0 +1,18 @@
+<svg width="440" height="88" viewBox="0 0 440 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="10" width="68" height="68" rx="16" fill="#F0FDFF"/>
+  <rect x="4" y="10" width="68" height="68" rx="16" stroke="#BAE6FD" stroke-width="1.5"/>
+
+  <!-- Tooth -->
+  <path d="M31.7 24.5C24.9 24.5 20 29.5 20 36.5C20 44.6 24.2 51.7 28.3 57.2C29.3 58.5 31.2 58.5 32.1 57.1C33.8 54.7 35.1 52.5 36.2 50.3C37.3 52.5 38.6 54.7 40.3 57.1C41.2 58.5 43.1 58.5 44.1 57.2C48.2 51.7 52.4 44.6 52.4 36.5C52.4 29.5 47.5 24.5 40.7 24.5C38.8 24.5 37.2 25 36.2 25.8C35.2 25 33.6 24.5 31.7 24.5Z" fill="#FFFFFF" stroke="#0F172A" stroke-width="2"/>
+
+  <!-- Clear smile arc -->
+  <path d="M16 44C23 52 29 56 38 56C47 56 53 52 60 44" stroke="#0284C7" stroke-width="3.2" stroke-linecap="round"/>
+
+  <!-- Sparkle for clean smile -->
+  <path d="M54 24L55.8 27.6L59.5 29.4L55.8 31.2L54 34.8L52.2 31.2L48.5 29.4L52.2 27.6L54 24Z" fill="#06B6D4"/>
+
+  <text x="86" y="40" font-family="Inter, Arial, sans-serif" font-size="29" font-weight="700" fill="#0F172A">Kamfe Smile</text>
+  <text x="86" y="63" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="600" fill="#334155">Care Lab</text>
+
+  <path d="M346 52C357 60 373 60 384 52" stroke="#06B6D4" stroke-width="2.6" stroke-linecap="round"/>
+</svg>
